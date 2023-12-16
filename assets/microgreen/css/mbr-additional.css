@@ -17549,6 +17549,12 @@ ol {
 .wheat {
   background-image: url("../../../assets/images/microgreen.jpg");
 }
+.healthy {
+  background-image: url("../../../assets/images/microgreens-healthy-lifestyle.png");
+}
+.vegetarianism {
+  background-image: url("../../../assets/images/vegetarianism.png");
+}
 .milk_thistle {
   background-image: url("../../../assets/images/milk_thistle.jpg");
 }
